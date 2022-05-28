@@ -17,10 +17,11 @@ The surfs up analysis used SQLAlchemy's ORM or object relational mapper function
 
 ### Summary
 
-The results show that besides the maximum high temperature for June of 85 degrees and a maximum low of 56 degrees in December, the monthly average temperatures for Oahu only ranges by 4 degrees.  The little amount of variance in temperature means that surf site selection should also incorporate other factors into their analysis such as pre.  Avy knows that precipitation means better surf so we looked at Oahus precipitation values and plotted measurement scores. This helps give us better perspective when looking at overall annual weather trends. We can see that some months recieve higher precipitation than others such as in December, January, and April.  
+The results show that besides the maximum high temperature for June of 85 degrees and a maximum low of 56 degrees in December, the monthly average temperatures for Oahu only ranges by 4 degrees.  The little amount of variance in temperature means that surf site selection should also incorporate other factors into their analysis such as pre.  Avy knows that precipitation means better surf so we looked at Oahus precipitation values and plotted measurement scores. This helps give us better perspective when looking at overall annual weather trends. We can see that some months recieve higher precipitation than others. Looking at our two queries below we can see that December has higher precipitation values with an average precipitation of .21 inches with maximum values of 6.42 inches. June has lower precipitation averages and max values which means that Avys business model needs to decide which part of his business is more important. Selling ice more cream during June with less rain may be more favorable or 
 
 
-
+![This is an image](https://github.com/rhutDU18/surfs_up/blob/main/Resources/June%20Precipitation%20.png)
+![This is an image](https://github.com/rhutDU18/surfs_up/blob/main/Resources/December%20Precipitation.png)
 
 
 
